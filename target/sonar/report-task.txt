@@ -1,0 +1,7 @@
+organization=group8
+projectKey=Dilshad-Shaik_Group8
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.8683
+dashboardUrl=https://sonarcloud.io/dashboard?id=Dilshad-Shaik_Group8
+ceTaskId=AXLGBy7hqKPf8EClrHiB
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXLGBy7hqKPf8EClrHiB
